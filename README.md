@@ -4,6 +4,8 @@
 
 This project is an Avengers logo PCB with LED backlighting, made for the Hack Club Solder program. It uses a 555 timer IC configured as an astable oscillator with an approximately 100-second period to switch between two groups of LEDs. One group is driven by the timer output, while the other is controlled through a PNP BJT connected to the discharge pin. The PCB is designed with three terminals for each group, allowing the number of LEDs to be decided after receiving the randomly coloured LEDs from Hack Club. Unused positions will be shorted as needed. The initial power source is two CR2032 batteries, with the option to use another supply if required.
 
+The PCB is designed to be placed slightly away from a wall, allowing the LEDs on the back to spread light across the surface behind the Avengers logo . The exposed pinouts and connections on the front are therefore intentional, as the board is meant to be used in dark with the backlighting creating the visual effect.
+
 ## My Experience
 
 I chose the Avengers logo because I enjoy Marvel movies and characters, and the letter 'A' is also the first letter of my name. Since this is my first PCB, I wanted to make something I personally liked rather than just a basic circuit.

@@ -55,7 +55,7 @@ The circuit was tested in Falstad to check the intended switching behaviour of t
 
 - **Simulation:** [View the Falstad circuit](https://www.falstad.com/s.php?s=Swhze6)
 - **Screenshot:** `images/falstad-simulation.png`
-- 
+
 ## Hack Club Solder
 
 **Slack Username:** abineshsj2008

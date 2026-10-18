@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project is an Avengers logo PCB with LED backlighting, made for the Hack Club Solder program. It uses a 555 timer IC configured as an astable oscillator with an approximately 100-second period to switch between two groups of LEDs. One group is driven by the timer output, while the other is controlled through a PNP BJT connected to the discharge pin. The PCB is designed with three terminals for each group, allowing the number of LEDs to be decided after receiving the randomly coloured LEDs from Hack Club. Unused positions will be shorted as needed. The initial power source is two CR2032 batteries, with the option to use another supply if required.
+This project is an Avengers logo PCB with LED backlighting, made for the Hack Club Solder program. It uses a 555 timer IC configured as an astable oscillator with an approximately 110-second period to switch between two groups of LEDs. One group is driven by the timer output, while the other is controlled through a PNP BJT connected to the discharge pin. The PCB is designed with three terminals for each group, allowing the number of LEDs to be decided after receiving the randomly coloured LEDs from Hack Club. Unused positions will be shorted as needed. The initial power source is two CR2032 batteries, with the option to use another supply if required.
 
 The PCB is designed to be placed slightly away from a wall, allowing the LEDs on the back to spread light across the surface behind the Avengers logo . The exposed pinouts and connections on the front are therefore intentional, as the board is meant to be used in dark with the backlighting creating the visual effect.
 
@@ -49,6 +49,13 @@ The Gerber and drill files exported from EasyEDA are included in the `gerber/` f
 
 - EasyEDA — Schematic and PCB design
 
+## Circuit Simulation
+
+The circuit was tested in Falstad to check the intended switching behaviour of the 555 timer and the two LED groups.
+
+- **Simulation:** [View the Falstad circuit](PASTE_YOUR_FALSTAD_LINK_HERE)
+- **Screenshot:** `images/falstad-simulation.png`
+- 
 ## Hack Club Solder
 
-**Slack Username:** YOUR_SLACK_USERNAME
+**Slack Username:** abineshsj2008

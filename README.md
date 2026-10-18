@@ -53,7 +53,7 @@ The Gerber and drill files exported from EasyEDA are included in the `gerber/` f
 
 The circuit was tested in Falstad to check the intended switching behaviour of the 555 timer and the two LED groups.
 
-- **Simulation:** [View the Falstad circuit](PASTE_YOUR_FALSTAD_LINK_HERE)
+- **Simulation:** [View the Falstad circuit](https://www.falstad.com/s.php?s=Swhze6)
 - **Screenshot:** `images/falstad-simulation.png`
 - 
 ## Hack Club Solder
